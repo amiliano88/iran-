@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sistan_1",
+    "name": "جاذبه تاریخی 1 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_2",
+    "name": "جاذبه تاریخی 2 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_3",
+    "name": "جاذبه تاریخی 3 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_4",
+    "name": "جاذبه تاریخی 4 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_5",
+    "name": "جاذبه تاریخی 5 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_6",
+    "name": "جاذبه تاریخی 6 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_7",
+    "name": "جاذبه تاریخی 7 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_8",
+    "name": "جاذبه تاریخی 8 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_9",
+    "name": "جاذبه تاریخی 9 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  },
+  {
+    "id": "sistan_10",
+    "name": "جاذبه تاریخی 10 سیستان و بلوچستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان سیستان و بلوچستان.",
+    "image": "images/sistan_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "سیستان و بلوچستان"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "azar_sharghi_1",
+    "name": "مسجد کبود تبریز",
+    "description": "مسجدی زیبا با معماری آبی رنگ و نقش‌های کاشی‌کاری نفیس.",
+    "image": "images/azar_sharghi_places/blue_mosque.jpg",
+    "category": "تاریخی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_2",
+    "name": "بازار تبریز",
+    "description": "یکی از بزرگ‌ترین بازارهای سرپوشیده جهان و میراث جهانی یونسکو.",
+    "image": "images/azar_sharghi_places/tehran_bazaar.jpg",
+    "category": "فرهنگی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_3",
+    "name": "قلعه قهقهه",
+    "description": "قلعه‌ای تاریخی و طبیعی در نزدیکی تبریز با چشم‌انداز بی‌نظیر.",
+    "image": "images/azar_sharghi_places/qahqahe_castle.jpg",
+    "category": "تاریخی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_4",
+    "name": "پارک ائل گلی",
+    "description": "پارکی زیبا با دریاچه و امکانات تفریحی در مرکز تبریز.",
+    "image": "images/azar_sharghi_places/ell_goli_park.jpg",
+    "category": "تفریحی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_5",
+    "name": "موزه آذربایجان",
+    "description": "موزه‌ای بزرگ با مجموعه‌ای ارزشمند از آثار باستانی و تاریخی منطقه.",
+    "image": "images/azar_sharghi_places/azerbaijan_museum.jpg",
+    "category": "فرهنگی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_6",
+    "name": "کلیسای استپانوس",
+    "description": "کلیسایی تاریخی و زیبا در نزدیکی جلفا، ثبت شده در میراث جهانی یونسکو.",
+    "image": "images/azar_sharghi_places/stepanos_church.jpg",
+    "category": "مذهبی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_7",
+    "name": "باغ‌های تاریخی تبریز",
+    "description": "مجموعه‌ای از باغ‌های سنتی و زیبا با معماری ایرانی.",
+    "image": "images/azar_sharghi_places/tabriz_gardens.jpg",
+    "category": "تاریخی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_8",
+    "name": "پارک جنگلی سهند",
+    "description": "منطقه‌ای جنگلی و سرسبز برای تفریح و پیاده‌روی در اطراف تبریز.",
+    "image": "images/azar_sharghi_places/sahand_forest_park.jpg",
+    "category": "طبیعی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_9",
+    "name": "آبشار آسیاب خرابه",
+    "description": "آبشاری زیبا و دیدنی در نزدیکی شهر مرند.",
+    "image": "images/azar_sharghi_places/asiyab_kharabeh_waterfall.jpg",
+    "category": "طبیعی",
+    "province": "آذربایجان شرقی"
+  },
+  {
+    "id": "azar_sharghi_10",
+    "name": "بازار تاریخی مرند",
+    "description": "بازاری قدیمی با معماری سنتی و فروشگاه‌های متنوع.",
+    "image": "images/azar_sharghi_places/marand_bazaar.jpg",
+    "category": "فرهنگی",
+    "province": "آذربایجان شرقی"
+  }
+]

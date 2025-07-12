@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>جاذبه‌های گردشگری ایران</title>
+    <link rel="stylesheet" href="page2.css">
+</head>
+<body>
+    <header class="header">
+        <h1>جاذبه‌های گردشگری ایران</h1>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="جستجو در جاذبه‌ها..." aria-label="جستجو">
+            <button id="searchButton">جستجو</button>
+        </div>
+    </header>
+
+    <main class="container">
+        <aside class="sidebar">
+            <h2>فیلترها</h2>
+            <div class="filter-group">
+                <h3>استان‌ها</h3>
+                <div id="provinceFilters" class="filter-options">
+                    </div>
+            </div>
+            <div class="filter-group">
+                <h3>دسته‌بندی‌ها</h3>
+                <div id="categoryFilters" class="filter-options">
+                    </div>
+            </div>
+        </aside>
+
+        <section class="content">
+            <div id="placesContainer" class="places-grid">
+                </div>
+            <div id="noResults" class="no-results" style="display: none;">
+                نتیجه‌ای یافت نشد.
+            </div>
+        </section>
+    </main>
+
+    <script src="page2.js"></script>
+</body>
+</html>

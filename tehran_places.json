@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tehran_1",
+    "name": "جاذبه تاریخی 1 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان تهران.",
+    "image": "images/tehran_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_2",
+    "name": "جاذبه تاریخی 2 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان تهران.",
+    "image": "images/tehran_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_3",
+    "name": "جاذبه تاریخی 3 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان تهران.",
+    "image": "images/tehran_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_4",
+    "name": "جاذبه تاریخی 4 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان تهران.",
+    "image": "images/tehran_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_5",
+    "name": "جاذبه تاریخی 5 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان تهران.",
+    "image": "images/tehran_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_6",
+    "name": "جاذبه تاریخی 6 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان تهران.",
+    "image": "images/tehran_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_7",
+    "name": "جاذبه تاریخی 7 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان تهران.",
+    "image": "images/tehran_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_8",
+    "name": "جاذبه تاریخی 8 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان تهران.",
+    "image": "images/tehran_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_9",
+    "name": "جاذبه تاریخی 9 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان تهران.",
+    "image": "images/tehran_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  },
+  {
+    "id": "tehran_10",
+    "name": "جاذبه تاریخی 10 تهران",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان تهران.",
+    "image": "images/tehran_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "تهران"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "khuzestan_1",
+    "name": "جاذبه تاریخی 1 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_2",
+    "name": "جاذبه تاریخی 2 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_3",
+    "name": "جاذبه تاریخی 3 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_4",
+    "name": "جاذبه تاریخی 4 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_5",
+    "name": "جاذبه تاریخی 5 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_6",
+    "name": "جاذبه تاریخی 6 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_7",
+    "name": "جاذبه تاریخی 7 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_8",
+    "name": "جاذبه تاریخی 8 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_9",
+    "name": "جاذبه تاریخی 9 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  },
+  {
+    "id": "khuzestan_10",
+    "name": "جاذبه تاریخی 10 خوزستان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان خوزستان.",
+    "image": "images/khuzestan_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "خوزستان"
+  }
+]

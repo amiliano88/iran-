@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ardabil_1",
+    "name": "جاذبه تاریخی 1 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان اردبیل.",
+    "image": "images/ardabil_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_2",
+    "name": "جاذبه تاریخی 2 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان اردبیل.",
+    "image": "images/ardabil_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_3",
+    "name": "جاذبه تاریخی 3 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان اردبیل.",
+    "image": "images/ardabil_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_4",
+    "name": "جاذبه تاریخی 4 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان اردبیل.",
+    "image": "images/ardabil_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_5",
+    "name": "جاذبه تاریخی 5 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان اردبیل.",
+    "image": "images/ardabil_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_6",
+    "name": "جاذبه تاریخی 6 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان اردبیل.",
+    "image": "images/ardabil_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_7",
+    "name": "جاذبه تاریخی 7 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان اردبیل.",
+    "image": "images/ardabil_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_8",
+    "name": "جاذبه تاریخی 8 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان اردبیل.",
+    "image": "images/ardabil_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_9",
+    "name": "جاذبه تاریخی 9 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان اردبیل.",
+    "image": "images/ardabil_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  },
+  {
+    "id": "ardabil_10",
+    "name": "جاذبه تاریخی 10 اردبیل",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان اردبیل.",
+    "image": "images/ardabil_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "اردبیل"
+  }
+]

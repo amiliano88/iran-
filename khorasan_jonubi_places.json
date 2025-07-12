@@ -1,0 +1,82 @@
+[
+  {
+    "id": "khorasan_jonubi_1",
+    "name": "جاذبه تاریخی 1 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_2",
+    "name": "جاذبه تاریخی 2 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_3",
+    "name": "جاذبه تاریخی 3 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_4",
+    "name": "جاذبه تاریخی 4 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_5",
+    "name": "جاذبه تاریخی 5 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_6",
+    "name": "جاذبه تاریخی 6 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_7",
+    "name": "جاذبه تاریخی 7 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_8",
+    "name": "جاذبه تاریخی 8 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_9",
+    "name": "جاذبه تاریخی 9 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  },
+  {
+    "id": "khorasan_jonubi_10",
+    "name": "جاذبه تاریخی 10 خراسان جنوبی",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان خراسان جنوبی.",
+    "image": "images/khorasan_jonubi_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "خراسان جنوبی"
+  }
+]

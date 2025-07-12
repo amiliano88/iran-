@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fars_1",
+    "name": "جاذبه تاریخی 1 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان فارس.",
+    "image": "images/fars_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_2",
+    "name": "جاذبه تاریخی 2 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان فارس.",
+    "image": "images/fars_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_3",
+    "name": "جاذبه تاریخی 3 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان فارس.",
+    "image": "images/fars_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_4",
+    "name": "جاذبه تاریخی 4 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان فارس.",
+    "image": "images/fars_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_5",
+    "name": "جاذبه تاریخی 5 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان فارس.",
+    "image": "images/fars_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_6",
+    "name": "جاذبه تاریخی 6 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان فارس.",
+    "image": "images/fars_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_7",
+    "name": "جاذبه تاریخی 7 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان فارس.",
+    "image": "images/fars_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_8",
+    "name": "جاذبه تاریخی 8 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان فارس.",
+    "image": "images/fars_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_9",
+    "name": "جاذبه تاریخی 9 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان فارس.",
+    "image": "images/fars_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  },
+  {
+    "id": "fars_10",
+    "name": "جاذبه تاریخی 10 فارس",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان فارس.",
+    "image": "images/fars_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "فارس"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bushehr_1",
+    "name": "جاذبه تاریخی 1 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان بوشهر.",
+    "image": "images/bushehr_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_2",
+    "name": "جاذبه تاریخی 2 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان بوشهر.",
+    "image": "images/bushehr_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_3",
+    "name": "جاذبه تاریخی 3 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان بوشهر.",
+    "image": "images/bushehr_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_4",
+    "name": "جاذبه تاریخی 4 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان بوشهر.",
+    "image": "images/bushehr_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_5",
+    "name": "جاذبه تاریخی 5 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان بوشهر.",
+    "image": "images/bushehr_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_6",
+    "name": "جاذبه تاریخی 6 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان بوشهر.",
+    "image": "images/bushehr_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_7",
+    "name": "جاذبه تاریخی 7 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان بوشهر.",
+    "image": "images/bushehr_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_8",
+    "name": "جاذبه تاریخی 8 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان بوشهر.",
+    "image": "images/bushehr_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_9",
+    "name": "جاذبه تاریخی 9 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان بوشهر.",
+    "image": "images/bushehr_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  },
+  {
+    "id": "bushehr_10",
+    "name": "جاذبه تاریخی 10 بوشهر",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان بوشهر.",
+    "image": "images/bushehr_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "بوشهر"
+  }
+]

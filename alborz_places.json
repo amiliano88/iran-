@@ -1,0 +1,82 @@
+[
+  {
+    "id": "alborz_1",
+    "name": "جاذبه تاریخی 1 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان البرز.",
+    "image": "images/alborz_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_2",
+    "name": "جاذبه تاریخی 2 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان البرز.",
+    "image": "images/alborz_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_3",
+    "name": "جاذبه تاریخی 3 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان البرز.",
+    "image": "images/alborz_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_4",
+    "name": "جاذبه تاریخی 4 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان البرز.",
+    "image": "images/alborz_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_5",
+    "name": "جاذبه تاریخی 5 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان البرز.",
+    "image": "images/alborz_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_6",
+    "name": "جاذبه تاریخی 6 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان البرز.",
+    "image": "images/alborz_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_7",
+    "name": "جاذبه تاریخی 7 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان البرز.",
+    "image": "images/alborz_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_8",
+    "name": "جاذبه تاریخی 8 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان البرز.",
+    "image": "images/alborz_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_9",
+    "name": "جاذبه تاریخی 9 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان البرز.",
+    "image": "images/alborz_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  },
+  {
+    "id": "alborz_10",
+    "name": "جاذبه تاریخی 10 البرز",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان البرز.",
+    "image": "images/alborz_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "البرز"
+  }
+]

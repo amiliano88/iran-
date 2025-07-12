@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gilan_1",
+    "name": "جاذبه تاریخی 1 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان گیلان.",
+    "image": "images/gilan_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_2",
+    "name": "جاذبه تاریخی 2 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان گیلان.",
+    "image": "images/gilan_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_3",
+    "name": "جاذبه تاریخی 3 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان گیلان.",
+    "image": "images/gilan_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_4",
+    "name": "جاذبه تاریخی 4 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان گیلان.",
+    "image": "images/gilan_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_5",
+    "name": "جاذبه تاریخی 5 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان گیلان.",
+    "image": "images/gilan_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_6",
+    "name": "جاذبه تاریخی 6 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان گیلان.",
+    "image": "images/gilan_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_7",
+    "name": "جاذبه تاریخی 7 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان گیلان.",
+    "image": "images/gilan_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_8",
+    "name": "جاذبه تاریخی 8 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان گیلان.",
+    "image": "images/gilan_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_9",
+    "name": "جاذبه تاریخی 9 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان گیلان.",
+    "image": "images/gilan_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  },
+  {
+    "id": "gilan_10",
+    "name": "جاذبه تاریخی 10 گیلان",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان گیلان.",
+    "image": "images/gilan_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "گیلان"
+  }
+]

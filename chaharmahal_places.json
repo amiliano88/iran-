@@ -1,0 +1,82 @@
+[
+  {
+    "id": "chaharmahal_1",
+    "name": "جاذبه تاریخی 1 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 1 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_1.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_2",
+    "name": "جاذبه تاریخی 2 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 2 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_2.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_3",
+    "name": "جاذبه تاریخی 3 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 3 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_3.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_4",
+    "name": "جاذبه تاریخی 4 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 4 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_4.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_5",
+    "name": "جاذبه تاریخی 5 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 5 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_5.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_6",
+    "name": "جاذبه تاریخی 6 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 6 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_6.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_7",
+    "name": "جاذبه تاریخی 7 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 7 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_7.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_8",
+    "name": "جاذبه تاریخی 8 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 8 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_8.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_9",
+    "name": "جاذبه تاریخی 9 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 9 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_9.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  },
+  {
+    "id": "chaharmahal_10",
+    "name": "جاذبه تاریخی 10 چهارمحال و بختیاری",
+    "description": "توضیح کوتاه درباره جاذبه تاریخی شماره 10 در استان چهارمحال و بختیاری.",
+    "image": "images/chaharmahal_places/place_10.jpg",
+    "category": "تاریخی",
+    "province": "چهارمحال و بختیاری"
+  }
+]
