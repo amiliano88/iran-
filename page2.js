@@ -11,40 +11,43 @@ document.addEventListener('DOMContentLoaded', async () => {
     let categories = new Set();
 
     // لیست کامل فایل‌های JSON استانی شما
-    const jsonFiles = [
+    // const jsonFiles = [
+    //     'data/alborz_places.json',
+    //     'data/ardabil_places.json',
+    //     'data/azar_gharbi_places.json', // باید ویژگی "province" را داشته باشد
+    //     'data/azar_sharghi_places.json',
+    //     'data/bushehr_places.json',
+    //     'data/chaharmahal_places.json',
+    //     'data/fars_places.json',
+    //     'data/gilan_places.json',
+    //     'data/golestan_places.json',
+    //     'data/hamedan_places.json',
+    //     'data/hormozgan_places.json',
+    //     'data/ilam_places.json',
+    //     'data/isfahan_places.json',
+    //     'data/kerman_places.json',
+    //     'data/kermanshah_places.json',
+    //     'data/khorasan_jonubi_places.json',
+    //     'data/khorasan_razavi_places.json',
+    //     'data/khorasan_shomali_places.json',
+    //     'data/khuzestan_places.json',
+    //     'data/kohgiluyeh_places.json',
+    //     'data/kurdistan_places.json',
+    //     'data/lorestan_places.json',
+    //     'data/markazi_places.json',
+    //     'data/mazandaran_places.json',
+    //     'data/qazvin_places.json',
+    //     'data/qom_places.json',
+    //     'data/semnan_places.json',
+    //     'data/sistan_places.json',
+    //     'data/tehran_places.json',
+    //     'data/yazd_places.json',
+    //     'data/zanjan_places.json',
+    //     // اگر فایل JSON جداگانه‌ای برای مکان‌های مذهبی دارید، آن را اینجا اضافه کنید:
+    //     // 'data/religious_places.json'
+    // ];
+        const jsonFiles = [
         'data/alborz_places.json',
-        'data/ardabil_places.json',
-        'data/azar_gharbi_places.json', // باید ویژگی "province" را داشته باشد
-        'data/azar_sharghi_places.json',
-        'data/bushehr_places.json',
-        'data/chaharmahal_places.json',
-        'data/fars_places.json',
-        'data/gilan_places.json',
-        'data/golestan_places.json',
-        'data/hamedan_places.json',
-        'data/hormozgan_places.json',
-        'data/ilam_places.json',
-        'data/isfahan_places.json',
-        'data/kerman_places.json',
-        'data/kermanshah_places.json',
-        'data/khorasan_jonubi_places.json',
-        'data/khorasan_razavi_places.json',
-        'data/khorasan_shomali_places.json',
-        'data/khuzestan_places.json',
-        'data/kohgiluyeh_places.json',
-        'data/kurdistan_places.json',
-        'data/lorestan_places.json',
-        'data/markazi_places.json',
-        'data/mazandaran_places.json',
-        'data/qazvin_places.json',
-        'data/qom_places.json',
-        'data/semnan_places.json',
-        'data/sistan_places.json',
-        'data/tehran_places.json',
-        'data/yazd_places.json',
-        'data/zanjan_places.json',
-        // اگر فایل JSON جداگانه‌ای برای مکان‌های مذهبی دارید، آن را اینجا اضافه کنید:
-        // 'data/religious_places.json'
     ];
 
     async function loadAllPlaces() {
